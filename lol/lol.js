@@ -1,0 +1,32 @@
+const linesWritten = require('./App')
+console.log(linesWritten('./'))
+// tst
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
+// deded/
